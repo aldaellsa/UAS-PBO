@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Single-Responsibility Principle", "Single-Responsibility Principle.pyproj", "{89EFBB47-E214-4CE2-B3EC-0870A961C65F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89EFBB47-E214-4CE2-B3EC-0870A961C65F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89EFBB47-E214-4CE2-B3EC-0870A961C65F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6AEABD8-FB64-4CF2-B2F7-35E77D4EC272}
+	EndGlobalSection
+EndGlobal
